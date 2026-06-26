@@ -261,10 +261,11 @@ Coming Soon...
 ---
 
 # 📄 Resume
-
-📥 **Download My Resume**
-
-[Click Here](./assets/Veeranna_Goli_Resume.pdf)
+<p align="center">
+<a href="./assets/Veeranna%20Chowdary%20Goli%20Resume.pdf">
+<img src="https://img.shields.io/badge/📄%20Download%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader"/>
+</a>
+</p>
 
 ---
 
